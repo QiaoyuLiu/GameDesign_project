@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{71611CAB-5C57-C461-6C5F-D5B002A48662}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/sheild_creator.cs">
+    <Files>
+      <File FileName="Assets/BamboosController.cs" Line="26" Column="6" />
+      <File FileName="Assets/Bamboos_move.cs" Line="14" Column="2" />
+      <File FileName="../epitagame_2/Assets/bullet_move.cs" Line="23" Column="1" />
+      <File FileName="Assets/bandit_controller.cs" Line="52" Column="1" />
+      <File FileName="Assets/EnemyController.cs" Line="12" Column="17" />
+      <File FileName="Assets/ArrowMove.cs" Line="38" Column="44" />
+      <File FileName="Assets/sheild_creator.cs" Line="18" Column="1" />
+      <File FileName="Assets/sheild.cs" Line="7" Column="7" />
+      <File FileName="Assets/AudioController.cs" Line="22" Column="69" />
+      <File FileName="Assets/bossController.cs" Line="14" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
